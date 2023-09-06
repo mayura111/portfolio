@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.3087060b.css",
-    "main.js": "/portfolio/static/js/main.c37cec5a.js",
+    "main.css": "/portfolio/static/css/main.acce59cc.css",
+    "main.js": "/portfolio/static/js/main.1e6a3d84.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/techybuy demo.mp4": "/portfolio/static/media/techybuy demo.b992220a9375066f774e.mp4",
     "static/media/portfolio demo.mp4": "/portfolio/static/media/portfolio demo.df2600f2c25efc049a6c.mp4",
@@ -34,12 +34,12 @@
     "static/media/html.svg": "/portfolio/static/media/html.f318c8b1d5945fa9adc827ae94849cb1.svg",
     "static/media/javascript.svg": "/portfolio/static/media/javascript.b879f838faf1cb951d1c2230fd933a39.svg",
     "static/media/facebook-icon.svg": "/portfolio/static/media/facebook-icon.ba7b046401b2b1813fd0e1e89d6aafce.svg",
-    "main.3087060b.css.map": "/portfolio/static/css/main.3087060b.css.map",
-    "main.c37cec5a.js.map": "/portfolio/static/js/main.c37cec5a.js.map",
+    "main.acce59cc.css.map": "/portfolio/static/css/main.acce59cc.css.map",
+    "main.1e6a3d84.js.map": "/portfolio/static/js/main.1e6a3d84.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3087060b.css",
-    "static/js/main.c37cec5a.js"
+    "static/css/main.acce59cc.css",
+    "static/js/main.1e6a3d84.js"
   ]
 }
