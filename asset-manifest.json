@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.a387c71a.css",
-    "main.js": "/portfolio/static/js/main.9c3232e5.js",
+    "main.js": "/portfolio/static/js/main.99503625.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/techybuy demo.mp4": "/portfolio/static/media/techybuy demo.b992220a9375066f774e.mp4",
-    "static/media/portfolio demo.mp4": "/portfolio/static/media/portfolio demo.df2600f2c25efc049a6c.mp4",
+    "static/media/portfolio-demo.mp4": "/portfolio/static/media/portfolio-demo.d47b95e49552c977b2a5.mp4",
     "static/media/contact-img.jpg": "/portfolio/static/media/contact-img.d630a81e697411ff383b.jpg",
     "static/media/astronaut-waving-both-hand.svg": "/portfolio/static/media/astronaut-waving-both-hand.df13cd07f1cd394fbbc7cf16fd536697.svg",
     "static/media/astronaut-lifting-ufo-barbell.svg": "/portfolio/static/media/astronaut-lifting-ufo-barbell.c7083942b41d158b528c4da98575b894.svg",
@@ -37,11 +37,11 @@
     "static/media/javascript.svg": "/portfolio/static/media/javascript.b879f838faf1cb951d1c2230fd933a39.svg",
     "static/media/facebook-icon.svg": "/portfolio/static/media/facebook-icon.ba7b046401b2b1813fd0e1e89d6aafce.svg",
     "main.a387c71a.css.map": "/portfolio/static/css/main.a387c71a.css.map",
-    "main.9c3232e5.js.map": "/portfolio/static/js/main.9c3232e5.js.map",
+    "main.99503625.js.map": "/portfolio/static/js/main.99503625.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a387c71a.css",
-    "static/js/main.9c3232e5.js"
+    "static/js/main.99503625.js"
   ]
 }
